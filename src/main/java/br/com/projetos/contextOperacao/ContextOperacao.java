@@ -1,6 +1,6 @@
-package br.com.idtrust.contextOperacao;
+package br.com.projetos.contextOperacao;
 
-import br.com.idtrust.interfacePKG.Operacao;
+import br.com.projetos.interfacePKG.Operacao;
 
 public class ContextOperacao {
 

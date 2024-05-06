@@ -1,4 +1,4 @@
-package br.com.idtrust.interfacePKG;
+package br.com.projetos.interfacePKG;
 
 public interface Operacao {
 

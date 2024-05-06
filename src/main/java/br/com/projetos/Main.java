@@ -1,10 +1,10 @@
-package br.com.idtrust;
+package br.com.projetos;
 
-import br.com.idtrust.contextOperacao.ContextOperacao;
-import br.com.idtrust.operacoes.Adicao;
-import br.com.idtrust.operacoes.Divisao;
-import br.com.idtrust.operacoes.Multiplicacao;
-import br.com.idtrust.operacoes.Subtracao;
+import br.com.projetos.contextOperacao.ContextOperacao;
+import br.com.projetos.operacoes.Adicao;
+import br.com.projetos.operacoes.Divisao;
+import br.com.projetos.operacoes.Multiplicacao;
+import br.com.projetos.operacoes.Subtracao;
 
 public class Main {
     public static void main(String[] args) {

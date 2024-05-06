@@ -1,6 +1,6 @@
-package br.com.idtrust.operacoes;
+package br.com.projetos.operacoes;
 
-import br.com.idtrust.interfacePKG.Operacao;
+import br.com.projetos.interfacePKG.Operacao;
 
 public class Multiplicacao implements Operacao {
 
