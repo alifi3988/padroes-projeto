@@ -1,6 +1,6 @@
-package br.com.projetos.operacoes;
+package br.com.projetos.comportamentais.strategy.operacoes;
 
-import br.com.projetos.interfacePKG.Operacao;
+import br.com.projetos.comportamentais.strategy.interfacePKG.Operacao;
 
 public class Subtracao implements Operacao {
 

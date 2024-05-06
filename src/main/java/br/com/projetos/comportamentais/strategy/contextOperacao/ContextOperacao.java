@@ -1,6 +1,6 @@
-package br.com.projetos.contextOperacao;
+package br.com.projetos.comportamentais.strategy.contextOperacao;
 
-import br.com.projetos.interfacePKG.Operacao;
+import br.com.projetos.comportamentais.strategy.interfacePKG.Operacao;
 
 public class ContextOperacao {
 

@@ -1,10 +1,10 @@
-package br.com.projetos;
+package br.com.projetos.comportamentais.strategy;
 
-import br.com.projetos.contextOperacao.ContextOperacao;
-import br.com.projetos.operacoes.Adicao;
-import br.com.projetos.operacoes.Divisao;
-import br.com.projetos.operacoes.Multiplicacao;
-import br.com.projetos.operacoes.Subtracao;
+import br.com.projetos.comportamentais.strategy.operacoes.Adicao;
+import br.com.projetos.comportamentais.strategy.operacoes.Divisao;
+import br.com.projetos.comportamentais.strategy.operacoes.Multiplicacao;
+import br.com.projetos.comportamentais.strategy.operacoes.Subtracao;
+import br.com.projetos.comportamentais.strategy.contextOperacao.ContextOperacao;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package br.com.projetos.interfacePKG;
+package br.com.projetos.comportamentais.strategy.interfacePKG;
 
 public interface Operacao {
 
